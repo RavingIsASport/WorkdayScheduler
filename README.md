@@ -6,3 +6,4 @@
 * Each time block has an input field and 'save' buttons.
 * Appointments can be entered to a specific hour inline, and the 'save' button saves them to local storage.
 * This application uses [jquery](https://jquery.com/) and [moment.js](https://momentjs.com/), and [Bootstrap](https://getbootstrap.com/).
+* Deployed application, https://ravingisasport.github.io/WorkdayScheduler/
