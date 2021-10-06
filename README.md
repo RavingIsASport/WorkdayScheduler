@@ -8,4 +8,5 @@
 * This application uses [jquery](https://jquery.com/) and [moment.js](https://momentjs.com/), and [Bootstrap](https://getbootstrap.com/).
 * Deployed application, https://ravingisasport.github.io/WorkdayScheduler/
 #Screenshot
-![8CA9F5B2-4DA1-4469-ABDB-4E50A3F08391](https://user-images.githubusercontent.com/87382254/132938578-73b10c82-0d7b-4aee-a797-68ebb87a9f2d.jpeg)
+![Oct-06-2021 18-08-18](https://user-images.githubusercontent.com/87382254/136295680-78dfb632-ef12-4428-94af-3ac01206f506.gif)
+
