@@ -1,7 +1,7 @@
 // Display time
 var today = moment();
 var displayToday = today.format('dddd, MMMM Do YYYY');
-$('#currentDay').text(displayToday);
+$('#currentDay').text(displayToday); 
 
 // color code text area based off time
 var blockTime = $('div');
